@@ -1,2 +1,4 @@
 # git_demo
-gitはバージョンを管理するvcsです
+gitはバージョンを管理する無料のvcsです
+
+他の無料VCSとしてSubversionがあります
